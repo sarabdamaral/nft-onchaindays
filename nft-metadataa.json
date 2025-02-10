@@ -1,0 +1,15 @@
+{
+    "attributes": [
+        {
+            "trait_type": "color",
+            "value": "Navy blue"
+        },
+        {
+            "trait_type": "material",
+            "value": "clay"
+        }
+    ],
+    "description": "A ballerina clay art work",
+    "image": "ipfs://bafybeie2tdbacf3ygrtcx2ebpdusgakii4ren7idv7odkerdls4nif7hrm",
+    "name": "Ballerina"
+}
