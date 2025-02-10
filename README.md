@@ -1,5 +1,11 @@
 # NFT Smart Contract Project
 
+Followed tutorials:
+
+Part 1 (Deploying the contract): https://ethereum.org/en/developers/tutorials/how-to-write-and-deploy-an-nft/
+
+Part 2 (Minting the NFT): https://ethereum.org/en/developers/tutorials/how-to-mint-an-nft/
+
 This project demonstrates a basic NFT (Non-Fungible Token) implementation using OpenZeppelin's ERC721 standard.
 
 ## Prerequisites
